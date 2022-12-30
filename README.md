@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Louis
 - 👀 I’m interested in computer networking and operating systems
-- 🌱 I’m currently learning Go, Javascript, Kubernetes, and HTML/CSS
+- 🌱 I’m currently learning Go, Javascript, Kubernetes(as an administrator), and AWS cloud
 - 💞️ I’m looking to collaborate on ... (leaving this blank for now)
 - 📫 How to reach me: lefeb073@umn.edu
 
