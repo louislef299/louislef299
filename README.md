@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Louis
-- 👀 I’m interested in computer networking and operating systems
-- 🌱 I’m currently learning Go, Javascript, Kubernetes(as an administrator), and AWS cloud
-- 💞️ I’m looking to collaborate on ... (leaving this blank for now)
-- 📫 How to reach me: lefeb073@umn.edu
+👋 Hi, I’m Louis
+
+I'm a backend/cloud engineer ☁️
+
+If I'm not coding 💻, I'm outside 🚴
 
 <!---
 louislef299/louislef299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
