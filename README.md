@@ -1,6 +1,6 @@
 👋 Hi, I’m Louis
 
-I'm a backend/cloud engineer ☁️
+I'm a platform/network engineer ☁️
 
 If I'm not coding 💻, I'm outside 🚴
 
