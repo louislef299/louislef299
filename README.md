@@ -1,8 +1,8 @@
 👋 Hi, I’m Louis
 
-I'm a platform/network engineer ☁️
+Some days I'm a platform/network engineer ☁️
 
-If I'm not coding 💻, I'm outside 🚴
+Keeping it simple
 
 <!---
 louislef299/louislef299 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
