@@ -1,7 +1,7 @@
 👋 Hi, I’m Louis
 
 Some days I'm a code monkey 🐒 ☁️ \
-Others, an kook/weekend warrior 🏄 🏔️ \
+Others, a kook/weekend warrior 🏄 🏔️ \
 And sometimes, just a bum 🏖️
 
 [❤ There is always hope ](https://twloha.com/find-help)[-- *Aragorn* 🗡️](https://lotr.fandom.com/wiki/Aragorn_II)
